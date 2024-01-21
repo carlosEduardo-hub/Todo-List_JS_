@@ -57,7 +57,6 @@ Antes de começar, certifique-se de ter o Node.js e o npm instalados em sua máq
 
 ## Estrutura do Projeto
 - `src/`: Contém os arquivos fonte da aplicação.
-  - `components/`: Componentes React reutilizáveis.
   - `App.js`: Componente principal da aplicação.
   - `App.css`: Estilos globais da aplicação.
   - `index.js`: Ponto de entrada da aplicação.
